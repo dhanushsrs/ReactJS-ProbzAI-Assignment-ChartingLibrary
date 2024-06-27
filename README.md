@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the React Chart App! This project provides a simple React application that displays a line chart with data filtered by daily, weekly, or monthly timeframe selections.
+This project provides a simple React application that displays a line chart with data filtered by daily, weekly, or monthly timeframe selections.
 
 ## Features
 
@@ -12,8 +12,8 @@ Welcome to the React Chart App! This project provides a simple React application
 
 ## Customization
 
-1. Data Source: created a sampleData in ./data/index.js
-2. Styling: Customized the chart appearance and overall application styling by modifying the CSS files (index.css, App.css, etc.).
+1. Data Source: created a sampleData in data/index.js
+2. Styling: Customized the chart appearance and overall application styling by modifying the CSS files (index.css, App.css).
 
 ## Deployment
 
