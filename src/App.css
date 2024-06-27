@@ -1,0 +1,7 @@
+.app-container{
+  background-image: linear-gradient(lightgreen,white );
+  height: 100vh;
+  margin: 0;
+  box-sizing: border-box;
+  background-size: cover; 
+}
